@@ -22,7 +22,7 @@ The project demonstrates vehicle customization, Blueprint-based interaction, UI 
 - UMG
 - Blender
 - Unreal Material System
-- Git / Git LFS
+- Git LFS
 
 ## Project Overview
 
@@ -90,14 +90,3 @@ The screenshots below demonstrate the current Vehicle Configurator, including th
 A downloadable Windows demo will be available on itch.io.
 
 **itch.io:** Coming soon
-
-## Project Structure
-
-```text
-VehicleConfigurator/
-├── Config/
-├── Content/
-├── VehicleConfigurator.uproject
-├── .gitignore
-├── .gitattributes
-└── README.md
