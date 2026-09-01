@@ -51,31 +51,31 @@ The screenshots below demonstrate the current Vehicle Configurator, including th
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Front%20View.png" width="420"><br>
+      <img src="screenshots/Front%20View.png" width="300"><br>
       <b>Front View</b>
     </td>
     <td align="center">
-      <img src="screenshots/Front%20View%20-%20Interactions.png" width="420"><br>
+      <img src="screenshots/Front%20View%20-%20Interaction%20UI.png" width="300"><br>
       <b>Front View Interaction UI</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/Right%20View%20-%20door%20open.png" width="420"><br>
+      <img src="screenshots/Right%20View%20-%20door%20%20interaction.png" width="300"><br>
       <b>Door Interaction</b>
     </td>
     <td align="center">
-      <img src="screenshots/Headlights.png" width="420"><br>
+      <img src="screenshots/Headlights.png" width="300"><br>
       <b>Headlight</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/Right%20View.png" width="420"><br>
+      <img src="screenshots/Right%20View.png" width="300"><br>
       <b>Right View</b>
     </td>
     <td align="center">
-      <img src="screenshots/Back%20View.png" width="420"><br>
+      <img src="screenshots/Back%20View.png" width="300"><br>
       <b>Back View</b>
     </td>
   </tr>
