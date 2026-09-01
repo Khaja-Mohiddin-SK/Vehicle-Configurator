@@ -4,6 +4,23 @@ Interactive real-time 3D vehicle configurator developed in Unreal Engine 5.
 
 The project demonstrates Blueprint-based interactions, UI development, paint color switching, camera controls, lighting, and interactive vehicle components
 
+## Opening the Project
+
+This project uses Git LFS for Unreal Engine assets.
+
+### Recommended
+
+1. Install Git and Git LFS.
+2. Run:
+
+```bash
+git lfs install
+git clone https://github.com/Khaja-Mohiddin-SK/Vehicle-Configurator.git
+cd Vehicle-Configurator
+git lfs pull
+
+3. Open VehicleConfigurator.uproject in Unreal Engine 5.
+
 ## Features
 
 - Real-time vehicle paint color switching
