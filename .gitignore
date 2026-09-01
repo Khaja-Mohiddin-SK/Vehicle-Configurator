@@ -1,0 +1,31 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Generated folders inside plugins
+**/Binaries/
+**/Intermediate/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
