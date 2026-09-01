@@ -2,17 +2,17 @@
 
 Interactive real-time 3D vehicle configurator developed in Unreal Engine 5.
 
-The project demonstrates Blueprint-based interactions, UI development, paint color switching, camera controls, lighting, and interactive vehicle components.n.
+The project demonstrates Blueprint-based interactions, UI development, paint color switching, camera controls, lighting, and interactive vehicle components
 
 ## Features
 
-- vehicle paint switching and interactive components
+- Real-time vehicle paint color switching
 - Animated left and right doors
 - Headlight controls with emissive lighting
 - Multiple vehicle inspection camera views
 - UMG-based user interface
 - Showroom environment and vehicle-focused lighting
-- Blender-based vehicle asset preparation
+- Vehicle asset adjustments using Blender
 - Mesh separation and pivot correction for interactive components
 
 ## Technologies & Tools
@@ -46,7 +46,7 @@ The UI allows the user to:
 
 ## Screenshots
 
-The screenshots below demonstrate the current Vehicle Configurator, including the showroom environment, interactive controls, vehicle customization, animated components, headlights, and multiple inspection views.
+The screenshots below demonstrate the current Vehicle Configurator, including the showroom environment, interactive controls, paint color switching, animated components, headlights, and multiple inspection views.
 
 <table>
   <tr>
