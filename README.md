@@ -2,11 +2,11 @@
 
 Interactive real-time 3D vehicle configurator developed in Unreal Engine 5.
 
-The project demonstrates vehicle customization, Blueprint-based interaction, UI development, camera controls, lighting, and 3D asset integration.
+The project demonstrates Blueprint-based interactions, UI development, paint color switching, camera controls, lighting, and interactive vehicle components.n.
 
 ## Features
 
-- Real-time vehicle paint customization
+- vehicle paint switching and interactive components
 - Animated left and right doors
 - Headlight controls with emissive lighting
 - Multiple vehicle inspection camera views
@@ -15,7 +15,7 @@ The project demonstrates vehicle customization, Blueprint-based interaction, UI 
 - Blender-based vehicle asset preparation
 - Mesh separation and pivot correction for interactive components
 
-## Technologies
+## Technologies & Tools
 
 - Unreal Engine 5
 - Blueprints
@@ -28,7 +28,7 @@ The project demonstrates vehicle customization, Blueprint-based interaction, UI 
 
 The project was created as an interactive automotive visualization application.
 
-Vehicle components and assets were prepared in Blender and Unreal Engine, including mesh cleanup, separation, pivot adjustment, and material configuration.
+Imported 3D vehicle assets were organized and adjusted in Blender and Unreal Engine, including mesh separation, pivot correction, and component setup for interaction.
 
 Blueprints are used to control user interactions such as vehicle color changes, door animations, headlights, and camera switching.
 
@@ -81,9 +81,9 @@ The screenshots below demonstrate the current Vehicle Configurator, including th
   </tr>
 </table>
 
-<!-- Example:
-![Vehicle Configurator](Screenshots/showroom.png)
--->
+## Asset Note
+
+The vehicle model and selected environment assets used in this project are third-party assets. My work focused on Unreal Engine integration, Blueprint interactions, UI, material configuration, lighting, camera systems, and adjustments required for interactive components.
 
 ## Demo
 
