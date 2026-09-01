@@ -46,7 +46,40 @@ The UI allows the user to:
 
 ## Screenshots
 
-Screenshots and a gameplay/demo video will be added here.
+The screenshots below demonstrate the current Vehicle Configurator, including the showroom environment, interactive controls, vehicle customization, animated components, headlights, and multiple inspection views.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Front%20View.png" width="420"><br>
+      <b>Front View</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Front%20View%20-%20Interactions.png" width="420"><br>
+      <b>Front View Interaction UI</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Right%20View%20-%20door%20open.png" width="420"><br>
+      <b>Door Interaction</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Headlights.png" width="420"><br>
+      <b>Headlight</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Right%20View.png" width="420"><br>
+      <b>Right View</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Back%20View.png" width="420"><br>
+      <b>Back View</b>
+    </td>
+  </tr>
+</table>
 
 <!-- Example:
 ![Vehicle Configurator](Screenshots/showroom.png)
