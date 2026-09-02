@@ -104,6 +104,6 @@ The vehicle model and selected environment assets used in this project are third
 
 ## Demo
 
-A downloadable Windows demo will be available on itch.io.
+Download the Windows build on itch.io:
 
-**itch.io:** Coming soon
+https://khaja-mohiddin-sk.itch.io/vehicle-configurator
